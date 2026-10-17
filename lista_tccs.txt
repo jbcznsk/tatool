@@ -1,0 +1,306 @@
+2025/2025 Análise Comparativa De Algoritmos Meta-Heurísticos Para O Problema Do Caixeiro Viajante Biobjetivo.pdf
+2025/2025 Análise Da Aplicação De Deep Reinforcement Learning Ao Tetris.pdf
+2025/2025 Análise De Duas Abordagens De Treinamento Para Segmentação De Vértebras Em Radiografias Com Redes Neurais Convolucionais - Máscaras Definidas Por Pontos Anotados E Máscaras Geradas Pelo Segment Anything Model.pdf
+2025/2025 Análise De Possíveis Melhorias De Desempenho Através Do Uso De Instruções De Memória Temporais E Atemporais.pdf
+2025/2025 Análise Experimental Do Ajuste De Hiperparâmetros Em Algoritmos De Recomendação Baseados Em Sessão.pdf
+2025/2025 Análise Qualitativa De Um Estudo De Usabilidade E Experiência Do Usuário Em Solução Holográfica Tocável.pdf
+2025/2025 Antropo.Sol Web - Módulo Gráfico Para Geração De Cartas Solares E Dimensionamento De Dispositivos Para Controle Da Incidência De Radiação Solar Em Edificações.pdf
+2025/2025 Aplicação De Redes Lstm Com Análise De Sentimentos Na Previsão De Preços De Ações - Uma Adaptação De Modelos Do Mercado De Criptomoedas.pdf
+2025/2025 Aplicação De Visão Computacional Na Automação Industrial - Reconhecimento E Coleta De Pallets.pdf
+2025/2025 Arco-Vr - Um Jogo Sério Em Realidade Virtual Para Reabilitação Cognitiva Baseado Na Metodologia Dlotca.pdf
+2025/2025 Beyond Boundaries - Collaboration Networks And Research Output In Brazilian Computer Science.pdf
+2025/2025 Bot Educacional Para Metodologias Ativas No Ensino Remoto.pdf
+2025/2025 Classificação De Cáries Dentárias Utilizando Ensemble De Redes Neurais Convolucionais.pdf
+2025/2025 Comparative Analysis Of Pre-Trained Yolo Architectures For Detecting Cell Phone Use Across Controlled And Naturalistic Driving Conditions.pdf
+2025/2025 Concepção De Um Sistema Erp Para Estúdios De Esportes E Dança.pdf
+2025/2025 Desenvolvimento De Um Kit De Robótica Educacional Modular De Baixo Custo.pdf
+2025/2025 Desenvolvimento De Um Sistema Web Para Gestão De Atendimento A Imigrantes E Refugiados Na Ufpr.pdf
+2025/2025 Detecção De Sarcasmo Em Textos Em Português Utilizando Modelos Baseados Em Bilstm E Bert.pdf
+2025/2025 Efficient Approximations Of Common Neighbors In Large Networks Via Sampling.pdf
+2025/2025 Estag.Io - Uma Ferramenta Para Gerenciar Vagas De Estágios.pdf
+2025/2025 Estudo Comparativo Entre Abordagens De Descoberta De Dependências Funcionais.pdf
+2025/2025 Evaluation Of Yolo Architectures For Document Layout Analysis Of Historical Newspapers.pdf
+2025/2025 Extração De Atributos De Portais De Notícias.pdf
+2025/2025 Find Your One Way - Acessibilidade Em Jogos Digitais Como Meio De Inclusão Para Minorias Sociais.pdf
+2025/2025 Formulações Em Programação Linear Inteira E Satisfatibilidade Booleana Como Soluções Para O Problema Do Genus Mínimo De Um Grafo.pdf
+2025/2025 Gerador De Chaves Privadas Distribuído Com Tabelas Hash Distribuídas Para Criptografia Baseada Em Identidade.pdf
+2025/2025 Ia Vs Ia - Uma Análise Quantitativa De Detecção De Imagens Geradas Por Ia.pdf
+2025/2025 Impacto De Diferentes Precisões De Ponto Flutuante Em Redes Neurais Convolucionais Para Classificação De Imagens.pdf
+2025/2025 Impacto Do Delta Lake Em Operações De Change Data Capture.pdf
+2025/2025 Implementação De Um Framework Para Detecção De Intrusão Baseada Em Métodos De Aprendizado De Máquina Em Redes Virtualizadas.pdf
+2025/2025 Implementação E Análise Do Algoritmo Nested Wave Function Collapse Para Geração Procedural De Terrenos.pdf
+2025/2025 Mapeamento Sistemático Da Literatura Sobre O Uso Da Inteligência Artificial Generativa No Audiovisual Não Interativo.pdf
+2025/2025 Mitigando O Comportamento De Gaming The System Em Um Jogo Educacional De Programação Com Ênfase Em Laços De Repetição.pdf
+2025/2025 O Algoritmo Parallel Paxos - Uma Especificação E Avaliação De Desempenho.pdf
+2025/2025 Pci Dss Checklist - Uma Ferramenta Aberta De Conformidade De Segurança De Dados.pdf
+2025/2025 Piá - Uma Arquitetura Orientada A Plugins Para Redes Baseadas Em Intenção.pdf
+2025/2025 Pufferfish - Um Método De Envenenamento De Dados Para Avaliação De Robustez De Algoritmos Semi-Supervisionados Em Fluxo De Dados.pdf
+2025/2025 Renderização Em Tempo Real De Líquidos Baseados Em Partículas.pdf
+2025/2025 Robustez Da Descoberta De Denial Constraints Em Cenários De Dados Ruidosos - Implicações Para O Perfilamento De Dados.pdf
+2025/2025 Schema Evolution With Goodness Of Fit Methods.pdf
+2025/2025 Silmarilli - A Post-Quantum Revocable Signature Ring For Vanet Communication.pdf
+2025/2025 Sorteus - Jogo Educacional Para Introduzir O Conceito De Complexidade Assintótica Por Meio De Algoritmos De Ordenação.pdf
+2025/2025 Supervised Contrastive Pre-Training Lstm Autoencoder For Anomaly Detection In Industrial Control Systems.pdf
+2025/2025 Testes De Programas Nas Disciplinas Iniciais Dos Cursos De Bacharelado Em Ciência Da Computação E Informática Biomédica Da Universidade Federal Do Paraná.pdf
+2025/2025 Uma Abordagem Exploratória Sobre Narrativas De Dados.pdf
+2025/2025 Uma Abordagem Para Criação De Data Warehouse Com Base Na Base Pública De Cadastros De Pessoas Jurídicas.pdf
+2025/2025 Uma Abordagem Relacional Para O Armazenamento E A Análise De Incidentes De Segurança No Sgbd Clickhouse.pdf
+2025/2025 Uma Avaliação Inicial Do Potencial De Llms Open-Source No Suporte A Processos De Elicitação De Requisitos De Software.pdf
+2025/2025 Uma Estratégia Para Reduzir Timeouts Prematuros No Monitoramento De Processos Na Internet.pdf
+2025/2025 Uso Da Neuroevolução No Contexto De Robótica De Enxame Para Coleta De Recursos.pdf
+2025/2025 Visualização De Estruturas Lógicas De Um Programa.pdf
+2025/2025 Visualização De Violações Em Sistemas De Detecção De Dcs.pdf
+2024/2024 A COMPARATIVE STUDY OF DEEPFAKE DETECTION TECHNIQUES.pdf
+2024/2024 A COMPARATIVE STUDY ON SYNTHETIC FACIAL DATA GENERATION TECHNIQUES FOR FACE RECOGNITION.pdf
+2024/2024 ALGORITMO FPT PARA ALIANÇAS DEFENSIVAS EM GRAFOS.pdf
+2024/2024 Algoritmo Genético para Busca de Filogenias com Dados Morfológicos.pdf
+2024/2024 AMPOLA - Criação de Cenários de Análise de Malware focados em Red Team via Orquestração de Ambientes pela Internet.pdf
+2024/2024 Análise comparativa de desempenho de algoritmos de centralidade de Katz em redes sociais: um estudo entre implementações NetworkX e proposta alternativa.pdf
+2024/2024 Análise sobre o uso de ferramentas de OCR para reconhecimento de textos em periódicos com alfabeto Ucraniano.pdf
+2024/2024 Aprendizado de máquina para previsão do aparecimento de caravelas-portuguesas no litoral brasileiro através do vento.pdf
+2024/2024 Avaliação de Técnicas de Front-End Prefetching Especulativo.pdf
+2024/2024 Desempenho de dois sistemas embarcados populares no uso de redes neurais residuais para classificação de imagens.pdf
+2024/2024 Don't Blink - a Study of Methods for Detecting Closed Eyes in Event Photos.pdf
+2024/2024 Estratégias de Imunização de Redes - Uma Análise Comparativa de Heurísticas Espectrais em Grafos.pdf
+2024/2024 Estudo do algoritmo de Raytracing e técnicas para renderização de cenas tridimensionais.pdf
+2024/2024 Exploração de aprendizagem federada com CNN.pdf
+2024/2024 Impacto de Imagens Sintéticas na Classificação de Vagas de Estacionamento usando Redes Neurais.pdf
+2024/2024 Impacto de variáveis sociodemográficas nos casos de Covid-19 em Curitiba usando Shap.pdf
+2024/2024 Implementation and validation of a stereo visual odometry pipeline for pose estimation.pdf
+2024/2024 Implementation of multiple hypothesis tracking in C++.pdf
+2024/2024 INFINITY LOOP - Um Jogo Educacional sobre Erros Causados por Misconceptions no Ensino de Programação.pdf
+2024/2024 Integração de ferramentas para descoberta de restrições de negação e reparo de bases de dados no contexto de data cleaning.pdf
+2024/2024 Integração de redes VANet com Star-RIS - aplicação em semáforos.pdf
+2024/2024 Jogo em Realidade Virtual de Treinamento para Compensação de Perda do Campo Visual para Pacientes Pós-AVC.pdf
+2024/2024 Knock-knock whois there? A machine learning application for detecting phishing URLs using domain-based and lexical features.pdf
+2024/2024 Maximizing Influence Blocking with Competing Cascades using Integer Linear Programming.pdf
+2024/2024 O ENEM sob a perspectiva socioeconômica - análise e avaliação através de redução de dimensionalidade.pdf
+2024/2024 Otimizando a Classificação de Vagas de Estacionamento - Destilando Conjuntos em Modelos Leves.pdf
+2024/2024 Paralelização de consultas sobre dados de mobilidade.pdf
+2024/2024 Paralelização de uma construção sintática de múltiplos threads.pdf
+2024/2024 Reconhecimento de Tablatura Musical através de Redes Neurais Convolucionais.pdf
+2024/2024 Simulação dos Efeitos da Radiação Utilizando Injeção de Falhas via DVFS.pdf
+2024/2024 Thermal exploitation by UAVs, on a simulated environment.pdf
+2024/2024 Training motor skills for a simulated robocup 3D humanoid robot using reinforcement learning.pdf
+2024/2024 Uma Investigação sobre Software Anti-Cheat e seu Impacto na Privacidade do Usuário.pdf
+2024/2024 Um algoritmo para fast-reroute utilizando avaliação de fluxo máximo e backtracking.pdf
+2024/2024 Um estudo de caso sobre a implantação de um sistema de detecção de intrusões aplicado a um projeto em parceria com o SUS.pdf
+2024/2024 Uso de drone como ferramenta para volumetria de madeira em ambiente de floresta.pdf
+2024/2024 Visual ordinary computer simulator: uma ferramenta de visualização para simulador arquitetural.pdf
+2023/2023 Análise crítica dos limites do blockchain em relacão a escalabilidade e capacidade de processamento de transacões em grande escala.pdf
+2023/2023 Análise de Dados Acadêmicos para Previsão da Demanda de Turmas.pdf
+2023/2023 Análise de Softwares de Teste Web a Partir do Guia de Avaliação de Qualidade de Software Mede-Pros.pdf
+2023/2023 Análise de Transferência de Aprendizado com Redes Neuroevolutivas (Neat) em Jogos de Atari 2600.pdf
+2023/2023 Análise de Viabilidade de Uso de Ferramentas Nativas do Sistema Operacional Android para Detecção de Ataques.pdf
+2023/2023 Análise de Vulnerabilidades em Contratos Inteligentes da Ethereum.pdf
+2023/2023 Análise do impacto de dados faltantes no perfilamento de dados.pdf
+2023/2023 An Implementation Of The Misra & Gries Edge Coloring Algorithm And Its Integration On Sagemath.pdf
+2023/2023 A NP-completude do reconhecimento de grafos-clique.pdf
+2023/2023 Aplicação de Bert em logs para classificação de códigos maliciosos.pdf
+2023/2023 Aplicação do Novelty Search ao Algoritmo Genético para a Resolução do Problema do Caixeiro Viajante.pdf
+2023/2023 Aprendizado por Reforço Profundo Aplicado a Tetris com Entradas Não Processadas.pdf
+2023/2023 Avaliação de Técnicas de Transferência de Estilo Musical_ Uma Comparação entre Métodos de Manipulação de Representações Simbólicas.pdf
+2023/2023 AVANTE_ Um Modelo de Desenvolvimento Participativo de Ferramentas Digitais para apoio à Práticas Autogestionárias em Empreendimentos da Economia Solidária.pdf
+2023/2023 AVOC (Automatic Validation Of Code) - Uma Ferramenta para a Validação Automatizada de Consistência entre Diagramas UML e Código Java.pdf
+2023/2023 Caracterização Estática de Aplicações Webassembly através de Estratégias de Aprendizado de Máquina.pdf
+2023/2023 Coleta de dados de uso de aplicações Android para análise comportamental de usuários.pdf
+2023/2023 Comparação de desempenho entre bancos relacionais e não relacionais.pdf
+2023/2023 Container-based framework for automation of customized Android security testing environment generation.pdf
+2023/2023 Debug Visualizer - Criando um Plugin para Visualização de Algoritmos em C com Gdb.pdf
+2023/2023 Detecção de anomalias em contêiner_ uma avaliação considerando o nível de observação das aplicações no contêiner.pdf
+2023/2023 Diagnóstico sociotécnico do projeto SimCAQ.pdf
+2023/2023 Disparidade da Produção Científica entre Sub-Áreas da Ciência da Computação Brasileira.pdf
+2023/2023 Estudo Comparativo entre Cnns para a Classificação de Imagens Radiográficas.pdf
+2023/2023 Estudo de modelos de super resolução aplicados a imagens de microscopia de células da série branca.pdf
+2023/2023 Estudo sobre Conjuntos Ordenados com Aplicações.pdf
+2023/2023 Estudo sobre Métodos de Monte Carlo e Cadeias de Markov.pdf
+2023/2023 Explorando a Aceleração da Difusão Latente de Imagens_ Avanços em Modelos Generativos de Difusão.pdf
+2023/2023 Explorando etiquetas linguísticas para correção de erros ortográficos.pdf
+2023/2023 Geração de instâncias para testes e aprimoramento de modelo de otimização.pdf
+2023/2023 Geração de níveis para o jogo Super Mario Bros através da rede generativa adversarial MarioGAN.pdf
+2023/2023 Gestão de Prontuários Médicos em um Sistema de Saúde Unificado Baseado em Blockchain e Ipfs.pdf
+2023/2023 Grafo de citações de processos jurídicos relacionados à COVID-19.pdf
+2023/2023 Human crossing_ a VR street crossing simulator to allow studies of pedestrian behaviour.pdf
+2023/2023 Impacto de dados ausentes na descoberta de dependências funcionais.pdf
+2023/2023 Inferência de Emoções Utilizando Detecção Facial e Redes Neurais Convolucionais.pdf
+2023/2023 Keypoint Detection On Multi-Dial Meters for Automatic Meter Reading Using Yolov7.pdf
+2023/2023 K-MERS e word embeddings no aprendizado de máquina para a classificação binária de sequências de DNA.pdf
+2023/2023 K-Nearest Neighbor exato em GPU.pdf
+2023/2023 Look Where You’re Going_ Classifying Drivers’ Attention Through 3d Gaze Estimation.pdf
+2023/2023 Mapeamento sistemático da literatura sobre avaliação de usabilidade e UX em soluções holográficas tocáveis no período de abril de 2021 à abril de 2023.pdf
+2023/2023 Modelagem computacional lagrangiana offline de transportes de resíduos plásticos no oceano.pdf
+2023/2023 o DNA das línguas - usando algortimos de semelhança genética para identificar similaridade entre linguagens.pdf
+2023/2023 Projeção Das Violações De Denial Constraints Detectadas Pelo Facet.pdf
+2023/2023 Raiz quadrada com cintura pelo menos seis de um grafo.pdf
+2023/2023 Representações visuais de sistemas operacionais para educação.pdf
+2023/2023 Segmentação e contagem de células em imagens de câncer de mama_ um estudo detalhado do desenvolvimento do pipeline.pdf
+2023/2023 Sistemas de Recomendação - Um Estudo sobre a Aplicação de Engenharia de Características em Situações de Cold-Start de Itens.pdf
+2023/2023 Study of super-resolution networks as pre-processing step for identification.pdf
+2023/2023 Towards Robust Understanding In Official Documents_New Dataset And Experiments.pdf
+2023/2023 Uma análise quantitativa da influência da sujeira de dados no treinamento de inteligências artificiais..pdf
+2023/2023 Uma Base Rotulada de Desvios Ortográficos do Português Brasileiro.pdf
+2023/2023 Um Sistema de Boot Remoto com Sistema de Arquivos Distribuído.pdf
+2023/2023 Um Sistema para Treinamento na Identificação e Resolução de Erros Sintáticos em Programas C Pré-Compilação e como a Gamificação Afeta o Desempenho do Usuário.pdf
+2023/2023 VNF-Cache - Um Serviço Nfv-Coin de Cache dentro da Rede para Bancos de Dados Chave-Valor Remotos.pdf
+2022/2022 Aplicação de Containers Seguros para a Proteção de Dados em Sistemas de Informação de Saúde Baseados em Openehr e Xacml.pdf
+2022/2022 Ataque aos Protocolos Criptográficos Baseados em Curva Elíptica usando o Algoritmo de Shor.pdf
+2022/2022 Blockchain para Gerenciamento de Confiança em Redes Dtn.pdf
+2022/2022 Building a Dataset of Late Modern German-Brazilian Newspaper Advertisement Pages for Layout and Font Recognition.pdf
+2022/2022 Caracterização de Assinaturas para Detecção de Trojans Bancários Brasileiros.pdf
+2022/2022 Classificação de Imagens de Caravelas-Portuguesas utilizando Redes Neurais Convolucionais.pdf
+2022/2022 Comparação entre Neo4j e Networkx.pdf
+2022/2022 Desenvolvimento de Jogos Web Utilizando Javascript.pdf
+2022/2022 Detecção de faltas em linhas de transmissão com restrições de negação.pdf
+2022/2022 Face Anti-Spoofing With Pix2pix-Generated Face Depth Maps.pdf
+2022/2022 Ferramenta de Auxílio no Estudo de Teoria de Grafos.pdf
+2022/2022 Hyperpaxos em Múltiplas Instâncias sobre a Libpaxos_Uma Versão Hierárquica do Algoritmo de Consenso Paxos.pdf
+2022/2022 INDUSTRIAL IOT MONITORING SYSTEM_Industrial OEE and Maintenance Monitoring System, Using IoT Technology, a Business case and System Architecture Analysis..pdf
+2022/2022 Investigação sobre a Difusão de Processos e Práticas de Engenharia, Arquitetura e Design de Software e seus Impactos em Empresas de Tecnologia.pdf
+2022/2022 Localização de Faltas em Redes de Transmissão de Energia Elétrica utilizando as Redes Neurais Recorrentes LSTM e GRU.pdf
+2022/2022 Neuro-Evolução em um Cenário de Robótica de Enxame com Comunicação Estigmérgica.pdf
+2022/2022 O Impacto da Adoção de Metodologias Ágeis no Desenvolvimento de Software no Governo Americano.pdf
+2022/2022 Otimização do Hadoop MapReduce através do tuning dos parâmetros de configuração.pdf
+2022/2022 Previsão de Preço Bitcoin com Gráfico Renko.pdf
+2022/2022 RECLOUD_ Ferramenta para Monitoramento, Tratamento e Análise de Comportamento em Ambientes de Nuvem.pdf
+2022/2022 SEGETH_ Um Agregador de Ferramentas para Identificação de Vulnerabilidades em Contrato Inteligente.pdf
+2022/2022 Sistema de Arquivos para um Sistema Operacional Didático.pdf
+2022/2022 SK-ITERATIVE_Um Algoritmo Guloso para o Escalonamento Eficiente em Redes Sem Fio sob o Modelo Sinr.pdf
+2022/2022 Uma comparação entre a influência de diferentes representações silábicas sobre a detecção de semelhança entre palavras em modelos PLN.pdf
+2022/2022 Um Estudo sobre o Conhecimento dos Profissionais a Respeito de Cobertura de Teste e Teste de Mutação.pdf
+2022/2022 Um Estudo sobre Representação e Simulação de Pelos e Cabelos em Computação Gráfica.pdf
+2022/2022 Verificação de Autoria para Textos.pdf
+2021/2021 Algoritmos Aleatorizados e Monte Carlo via Cadeias de Markov para o Cálculo da Centralidade de Intermediação.pdf
+2021/2021 Algoritmos de Shor e Grover e seus Impactos em Protocolos Criptográficos.pdf
+2021/2021 Análise das Etapas de Pré-Processamento e Modelos de Previsão de Velocidade de Vento Utilizando Dados Eólicos e Hidrológicos.pdf
+2021/2021 Análise de Algoritmos de Aprendizagem por Reforço Profundo em Jogos de Atari 2600.pdf
+2021/2021 Análise do Treinamento da Rede Neural Convolucional U-Net Somente com Dados Sintéticos para Segmentação de Imagens de Paisagens Naturais.pdf
+2021/2021 Análise e Comparação de Algoritmos Recomendadores de Conteúdo para Mídias Sociais e Plataformas de Streaming.pdf
+2021/2021 An Analysis of Deep Generative Models.pdf
+2021/2021 A Pedestrian Street Crossing Virtual Reality Simulator for Mobile Devices Developed In Unity.pdf
+2021/2021 Aplicação de Algoritmos de Aprendizado de Máquina na Anonimização de Registros Sensíveis em Banco de Dados.pdf
+2021/2021 Avaliação do Espaço para Melhorias de Políticas de Substituição de Linhas de Cache.pdf
+2021/2021 Deep Learning para a Classificação do Estado dos Olhos em Fotografias em Ambientes não Controlados.pdf
+2021/2021 Desafios na Classificação de Aplicações Baseada em Tráfego de Rede.pdf
+2021/2021 Desenvolvimento e Avaliação da Plataforma TAEP4.0.pdf
+2021/2021 Detecção de Anomalias_Estudo de Técnicas de Identificação de Ataques em um Ambiente de Contêiner.pdf
+2021/2021 Estudo de Integração de Dados Abertos Usando Apache Drill.pdf
+2021/2021 Explorando a Centralidade dos Caminhos Mínimos em Grafos.pdf
+2021/2021 Exploring Plain and Residual Convolutional Neural Networks for License Plate Super Resolution using Synthetic Data.pdf
+2021/2021 Geração de Narrativas Infantis e Avaliação Automatizada de Textos.pdf
+2021/2021 MOBI_Aplicativo para Colaboração entre Ciclistas e Compartilhamento de Dados sobre suas Dificuldades.pdf
+2021/2021 Modelo de Escalonamento de Tarefas para Gerenciadores de Bancos de Dados em Arquitetura Numa.pdf
+2021/2021 ORGANIZA UFPR_Aplicativo para Controle das Informações Acadêmicas.pdf
+2021/2021 Predição de Vencedores em Partidas Profissionais do Jogo League of Legends (Lol).pdf
+2021/2021 Proposta de Ferramenta para Fazer de Forma Automatizada a Seleção de Requisitos de Software em Versões Utilizando Planejamento em Inteligência Artificial para Projetos com uma ou Múltiplas Equipes.pdf
+2021/2021 Proposta e Avaliação da Ferramenta U2xecs.Tech.pdf
+2021/2021 Representação de Instruções X86 para Simuladores com Precisão de Ciclos.pdf
+2021/2021 Sistema de Integração de Dados com Interface Grafica e Mapeamentos Automatizados.pdf
+2021/2021 SMARTGOSSIP_Um Algoritmo Inteligente para Difusão Probabilística de Mensagens em Redes de Topologia Arbitrária.pdf
+2021/2021 Uma Análise Comparativa de Algoritmos Evolutivos para Resolver o Problema do Caixeiro Viajante Multiobjetivo.pdf
+2021/2021 Uma Comparação entre Sistemas Multiprocessados de Memória Compartilhada e de Troca de Mensagens Baseada em CSP.pdf
+2021/2021 Uma Ferramenta para Auxílio na Assistência Emergencial em Ambientes Urbanos.pdf
+2021/2021 Utilizando Funções Virtuais de Rede para Engenharia de Tráfego Flexível e Parametrizável.pdf
+2020/2020 Lei Geral de Proteção de Dados_Um Estudo sobre a Nova Lei em uma Instituição Pública de Educação.pdf
+2019/2019 Abordagem de Teste de Regressão Baseada em Teste de Oráculo para Api Rest.pdf
+2019/2019 Aceleração de Algoritmos para o Problema da Clique Máxima.pdf
+2019/2019 Algoritmos Parametrizados para o Problema de Cobertura por Vértices em Grafos.pdf
+2019/2019 Análise sobre o Impacto da Representação de Texto para Sistemas de Recomendação Baseado em Conteúdo.pdf
+2019/2019 A Utilização da Computação como Objeto de Aprendizagem.pdf
+2019/2019 Avaliação da Interação com a Interface do Whatsapp no Contexto de Fake News.pdf
+2019/2019 Avaliação de Técnicas de Otimização de Memórias Cache Orientadas por Preditores de Linhas Mortas.pdf
+2019/2019 Classes Limítrofes para os Problemas de Satisfazibilidade.pdf
+2019/2019 Comparação entre Técnicas de Pré-Processamento e Representação de Texto para Análise de Sentimento.pdf
+2019/2019 Deep Learning In Fingerprint Minutiae Extraction.pdf
+2019/2019 Desenvolvimento de Abordagem de Mapeamento de Esquemas em Cenário de Dados Abertos Educacionais.pdf
+2019/2019 Desenvolvimento de um Sistema para Auxiliar Crianças e Adolescentes com Dificuldades Auditivas .pdf
+2019/2019 Detecção De Ataques Ransomware Em Sistemas Linux.pdf
+2019/2019 Gerenciamento de Memória Virtual com Hiper Páginas.pdf
+2019/2019 Jogo Desplugado para Introdução ao Pensamento Computacional em Cursos de Ciência da Computação .pdf
+2019/2019 Paginação no XINU-MIPS.pdf
+2019/2019 Um Estudo sobre Neural Ordinary Differential Equations.pdf
+2019/2019 Utilização de Modelos de Machine Learning para a Identificação de Lavagem de Dinheiro em Transações Financeiras.pdf
+2019/2019 VISUAL VCUBE_Uma Implementação Gráfica do Algoritmo de Diagnóstico Distribuído Vcube.pdf
+2018/2018 Algoritmo Baseado em Amostragem para Centralidade de Percolação.pdf
+2018/2018 Análise de Classificadores de Texto Baseados em Aprendizado de Máquina Aplicada ao Contexto de Chamados de Suporte.pdf
+2018/2018 Análise de Redes Sociais no Contexto Musical.pdf
+2018/2018 AUTOGROW_Uma Arquitetura para Automação de Estufas.pdf
+2018/2018 Comparação de Algoritmos Genéticos para a Otimização da Política de Controle de Agentes Autônomos.pdf
+2018/2018 Comparação de Desempenho de Caches de Segmentação e de Paginação.pdf
+2018/2018 Deep Learning for Automatic Meter Reading.pdf
+2018/2018 Detecção Online de Estados de um Sistema Gerenciador de Banco de Dados.pdf
+2018/2018 DIAPASON.pdf
+2018/2018 EEG Applications_ A Literature Review and Game Development.pdf
+2018/2018 E-MUNDi - Um Framework Conceitual para a Análise e Concepção de Jogos Eletrônicos.pdf
+2018/2018 Estudo Direcionado sobre a Ferramenta Farma-Alg e seus Efeitos no Ensino De Programação.pdf
+2018/2018 Estudo sobre Propriedades Quantitativas de Critérios de Satisfazibilidade Proposicional.pdf
+2018/2018 Extraindo Características de Jogos Utilizando Redes Neurais Convolucionais.pdf
+2018/2018 FONOPETS - Aplicativo para Auxílio de Tratamento em Fonoaudiologia.pdf
+2018/2018 Grafos Biclique em Grafos de Bi-Intervalos.pdf
+2018/2018 Modern Cnn-Based Object Detectors Systems Applied To Person Detection.pdf
+2018/2018 Open-Set Face Recognition for Small Galleries Using Siamese Networks.pdf
+2018/2018 Otimização de Dados para Análise Técnica de Mercados Financeiros.pdf
+2018/2018 Predição de Desempenho em Avaliação de Jogos Digitais Utilizando Redes Long Short-Term Memory.pdf
+2018/2018 Projeto Partilhar é Especial_Em Direção à Construção Participativa de um Espaço Virtual e Social com e Para Profissionais da Educação Especial.pdf
+2018/2018 Proposta de Aplicativo Mobile com Aplicabilidade no Projeto Sobrapar_Sobrapetapp.pdf
+2018/2018 Representações de Texto_Um Estudo Empírico em Sistemas de Recomendação Baseados em Conteúdo.pdf
+2018/2018 Uma Análise de Algoritmos de Ataques Adversários em Redes Neurais.pdf
+2018/2018 Um Estudo sobre Nonogramas.pdf
+2018/2018 WEBASSEMBLY_Uma Análise e Exemplo de Implementação.pdf
+2017/2017 Alianças em Grafos.pdf
+2017/2017 Análise de Ensembles de Redes Neurais Convolucionais em Reconhecimento de Imagens.pdf
+2017/2017 Análise do Aprisionamento Tecnológico e dos Monopólios de TI na Educação Brasileira e o Caso do Paraná Digital.pdf
+2017/2017 An Implementation of a StarCraft Bot Using IndividualActionPlanLearning for Learning Strategies.pdf
+2017/2017 APRENDE-OKÊ_ Educação E Diversão.pdf
+2017/2017 Coligações Partidárias no Brasil_Uma Análise em Grafos.pdf
+2017/2017 DCOMPIC — Dicionário Pictórico.pdf
+2017/2017 Deep Learning em Classificação de Imagens com Ruído.pdf
+2017/2017 Definindo o Layout de Um E-commerce pela Interação do Usuário baseado em Aprendizado de Máquina.pdf
+2017/2017 Desenvolvimento de Código de Simulação Baseado em Componentes Reutilizáveis para Redes de Sensores Sem Fio.pdf
+2017/2017 Estimativa On-Line de Tempo de Execução para Algoritmos de Branch-And-Bound.pdf
+2017/2017 Estudo Comparativo entre Algoritmos de Handoff em Redes Veiculares.pdf
+2017/2017 Finger Vein Recognition - A Study on Biometrics Authentication.pdf
+2017/2017 High Performance Code Generation Using Domain Specific Languages.pdf
+2017/2017 Implementação de Framework de Modelos Epidemiológicos Estocásticos Compartimentais sobre Grafos.pdf
+2017/2017 Implementação do CP1 do MIPS Unidade de Ponto Flutuante com Tomasulo.pdf
+2017/2017 INTRINSICS-HMC_Geração Automática de Traços de Simulação para Arquiteturas de Processamento em Memória.pdf
+2017/2017 Neuroevolução Aplicada ao Controle de Unidades de Ataque no Jogo StarCraft_Brood War.pdf
+2017/2017 Novel way to compute cost and select prototypes in optimum path forest classifiers.pdf
+2017/2017 Otimização de Código Através do Uso de Interfaces entre Python e C.pdf
+2017/2017 Otimização do Mapeamento de Consultas SPARQL Para SQL.pdf
+2017/2017 Prevenção ao Aliciamento de Crianças por meio de Dispositivos Móveis.pdf
+2017/2017 Problema de Roteamento de Veículos com Múltiplos Depósitos_Uma Abordagem Coevolutiva Baseada em Rotas.pdf
+2017/2017 Projeto de Software para Utilização do Método de Organização 3shots.pdf
+2017/2017 Scalable Gpu Communication Framework for Stencil Based Applications.pdf
+2017/2017 Sistema de Arquivo Baseado em Torrent com Controle de Cota de Armazenamento.pdf
+2017/2017 Sistema de Recomendação Baseado em Agrupamentos no Espaço Semântico.pdf
+2017/2017 Sistema para Geração de Listas de Verificação para Manutenção de Sistemas Industriais.pdf
+2017/2017 Tutor de Xadrez, uma Abordagem Web.pdf
+2017/2017 Uma Abordagem de Testes de Unidade Automatizados para Aplicações Web Legado.pdf
+2017/2017 Uma análise da segurança do SDN e um possível ataque à sua estrutura.pdf
+2017/2017 Uma Análise Experimental de Algoritmos de Agrupamento por Densidade em Dados de Expressão Gênica.pdf
+2017/2017 Uma Coleção de Objetos de Aprendizagem para o Curso de Ciência da Computação.pdf
+2017/2017 Um Algoritmo de Teste de Propriedades Aplicado ao Problema da Clique.pdf
+2017/2017 Uma Proposta de Adequação do Guia Mede-Pros Para a ISO_IEC 25010_2011 e Sistemas de Registro Eletrônico em Saúde.pdf
+2017/2017 Uma Rede de Citações para a Biblioteca Digital de Teses e Dissertações da Universidade Federal do Paraná.pdf
+2017/2017 Um Estudo Preliminar de E-Mail Não-Solicitado Recebido pelo DINF_UFPR.pdf
+2016/2016 Análise automatizada de exames de urina utilizando imagens digitais de dipsticks.pdf
+2016/2016 Análise comparativa de Softwares para Detecção de Rootkits em ambiente Linux, sob a visão do usuário.pdf
+2016/2016 Análise de escalabilidade no buffer BCD do CLUPA.pdf
+2016/2016 Análise dos Testes de Primalidade do RSA.pdf
+2016/2016 Aumentando a escalabilidade de redes Openflow através de cache de mensagens do controlador.pdf
+2016/2016 Avaliação de otimização por múltiplos enxames de partículas na solução de problemas dinâmicos.pdf
+2016/2016 Desenvolvimento de plataforma para navegação ponto-a-ponto de aeromodelo com telemetria e visualização em aplicação embarcada.pdf
+2016/2016 Detector e descritor ORB em aplicativo Android para localização e inclusão de informações em imagens por Realidade Aumentada em campus universitário.pdf
+2016/2016 Extração de possíveis casos de uso de textos escritos usando linguagem natural.pdf
+2016/2016 Ferramenta para criação de cartões classe-responsabilidade-colaboração.pdf
+2016/2016 Integração da ferramenta Apache JMeter à metodologia de teste de estresse de banco de dados baseado em modelo.pdf
+2016/2016 Interfaces humano-computador utilizando aparelhos de eletroencefalograma.pdf
+2016/2016 Metodologia DevOps.pdf
+2016/2016 Motorino - módulo semi-independente para controle de motores dc baseado na plataforma Arduino.pdf
+2016/2016 Processamento de consultas SparQL em um SGBD relacional.pdf
+2016/2016 Ranqueamento de Recursos Educacionais em uma Rede Social.pdf
+2016/2016 Reconhecimento automático de expressões faciais.pdf
+2016/2016 Sistema de recomendação de matrículas baseado em técnicas de aprendizado de máquina.pdf
+2016/2016 Teoria da Computação - Uma Nova Perspectiva.pdf
+2016/2016 Um estudo da previsão de evasão de alunos baseado em técnicas de Mineração de Dados Educacionais aplicado ao curso de Ciência da Computação da UFPR.pdf
+2016/2016 Vizinho solidário - um aplicativo de segurança compartilhada.pdf
